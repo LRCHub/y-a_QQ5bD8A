@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もうだいじょうぶ",
+  "base_artist": "CYNHN",
+  "createdAt": "2025-12-18T08:52:43.959575Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もうだいじょうぶ",
+      "artist": "CYNHN",
+      "has_synced": false,
+      "path": "select/pl_01_もうだいじょうぶ_CYNHN.txt"
+    }
+  ]
+}
